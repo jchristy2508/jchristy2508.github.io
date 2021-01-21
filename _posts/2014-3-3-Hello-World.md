@@ -1,10 +1,12 @@
 ---
 layout: post
 title: You're up and running!
+published: true
 ---
+### Conclusion
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+In conclusion, an implementation technique was described as an extension to the VERTEX model. The new implementation consists of: electric field simulation and synaptic plasticity. This is an ideal strategy for simulating models of an in-vitro cortical slice. These cortical slices may display characteristics of paired pulse depression or long term potentiation . This method serves as the basis for future modelling of non-invasive brain stimulation. The data structures to implement this have been described in this investigation. A further description of an example simulation of rat neocortex was conducted. Whereby, electric field stimulation was applied to the layer four of the neocortex and the responses were measured in layer two and three. This enabled to illustrate that the tool may be utilized in order to unveil currents which contribute to the field potential response, when electrically simulated. To demonstrate the tools involved in synaptic plasticity and field simulation experiments, two commonly used stimulation paradigms were applied. When applying the paired pulse stimulation, it has shown that short term plasticity and residual inhibition affect the response to a second pulse. When theta burst stimulation was applied, the estimated specific connections was strengthened during long term potentiation. It is believed that VERTEX in combination with the presented model in neocortex of the rat can aid in the research by exploring the specific synaptic contributions to the response of field potentials.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+
